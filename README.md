@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-###
+
 <h2 align="left">About me</h2>
 
 <p align="left">Hi, I'm Rohan Bingi a passionate Full-Stack Developer and Software Engineer with a strong foundation in Data Structures and Algorithms (DSA). I specialize in building scalable, maintainable, and efficient web applications using modern technologies like React, Node.js, TypeScript, and PostgreSQL.</p>
@@ -31,13 +31,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RohanBingii&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RohanBingii&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBingii&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=RohanBingii&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanBingii&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=RohanBingii&theme=merko&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBingii&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=RohanBingii&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

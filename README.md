@@ -6,11 +6,10 @@
 <br>
 <p align="left">I'm deeply interested in backend architecture, system design, and solving complex real-world problems through clean code. I enjoy contributing to open-source projects and continuously improving my development workflow.</p>
 
-###
 <h2>🎯 Goals:</h2>
 <p>- Master low-level system design and cloud architecture ☁️</p>
 <p>- Contribute to impactful open-source projects 💻</p>
-### 
+
 <h3>💡 Fun Fact:</h3>
 <p>When I’m not coding, I’m probably debugging my sleep schedule or automating things that don’t really need to be automated 😄</p>
 
@@ -38,6 +37,8 @@
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=RohanBingii&theme=merko&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBingii&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=RohanBingii&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
